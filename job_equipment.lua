@@ -239,7 +239,7 @@ return {
             }
         },
         {
-            {"Theo. Pant. +1", "Theophany Pantaloons +1", "Th. Pant. +1"}, 
+            {"Theo. Pant. +1", "Theophany Pantaloons +1", "Th. Pant. +1", "Th. Pantaloons +1"}, 
             54,
             {
                 ["+2"] = {
