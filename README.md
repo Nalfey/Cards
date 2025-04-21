@@ -22,6 +22,10 @@ The //cardsmats command will show you all materials needed to upgrade your gear 
 //cardsmats RNG
 ```
 
+![//cards GEO](https://i.imgur.com/SzHFGp0.jpeg)
+
+![//cardsmats PUP](https://i.imgur.com/1xIYG6Y.jpg)
+
 ### v1.10
 * Added //cardsmats commands
 
