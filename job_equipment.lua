@@ -2,15 +2,15 @@ return {
     WAR = {
         {
             {"Pumm. Mask +1", "Pummeler's Mask +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. WAR Card", count = 8},
+                    {name = "P. WAR Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WAR Card", count = 40},
+                    {name = "P. WAR Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -20,15 +20,15 @@ return {
         },
         {
             {"Pumm. Lorica +1", "Pummeler's Lorica +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. WAR Card", count = 10},
+                    {name = "P. WAR Card", count = 5},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WAR Card", count = 50},
+                    {name = "P. WAR Card", count = 15},
                     {name = "Kin's Scale", count = 1},
                     {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -38,15 +38,15 @@ return {
         },
         {
             {"Pumm. Mufflers +1", "Pummeler's Mufflers +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. WAR Card", count = 7},
+                    {name = "P. WAR Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WAR Card", count = 35},
+                    {name = "P. WAR Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -56,15 +56,15 @@ return {
         },
         {
             {"Pumm. Cuisses +1", "Pummeler's Cuisses +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. WAR Card", count = 9},
+                    {name = "P. WAR Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WAR Card", count = 45},
+                    {name = "P. WAR Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -74,15 +74,15 @@ return {
         },
         {
             {"Pumm. Calligae +1", "Pummeler's Calligae +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. WAR Card", count = 6},
+                    {name = "P. WAR Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WAR Card", count = 30},
+                    {name = "P. WAR Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -94,15 +94,15 @@ return {
     MNK = {
         {
             {"Anch. Crown +1", "Anchorite's Crown +1", "Anchor. Crown +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. MNK Card", count = 8},
+                    {name = "P. MNK Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. MNK Card", count = 40},
+                    {name = "P. MNK Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -112,17 +112,17 @@ return {
         },
         {
             {"Anch. Cyclas +1", "Anchorite's Cyclas +1", "Anchor. Cyclas +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. MNK Card", count = 10},
+                    {name = "P. MNK Card", count = 5},
                     {name = "Cypress Log", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. MNK Card", count = 50},
+                    {name = "P. MNK Card", count = 15},
                     {name = "Kin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -130,15 +130,15 @@ return {
         },
         {
             {"Anch. Gloves +1", "Anchorite's Gloves +1", "Anchor. Gloves +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. MNK Card", count = 7},
+                    {name = "P. MNK Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. MNK Card", count = 35},
+                    {name = "P. MNK Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -148,15 +148,15 @@ return {
         },
         {
             {"Anch. Hose +1", "Anchorite's Hose +1", "Anchor. Hose +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. MNK Card", count = 9},
+                    {name = "P. MNK Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. MNK Card", count = 45},
+                    {name = "P. MNK Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -166,15 +166,15 @@ return {
         },
         {
             {"Anch. Gaiters +1", "Anchorite's Gaiters +1", "Anchor. Gaiters +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. MNK Card", count = 6},
+                    {name = "P. MNK Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. MNK Card", count = 30},
+                    {name = "P. MNK Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -186,15 +186,15 @@ return {
     WHM = {
         {
             {"Theo. Cap +1", "Theophany Cap +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. WHM Card", count = 8},
+                    {name = "P. WHM Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WHM Card", count = 40},
+                    {name = "P. WHM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -204,17 +204,17 @@ return {
         },
         {
             {"Theo. Bliaut +1", "Theophany Bliaut +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. WHM Card", count = 10},
+                    {name = "P. WHM Card", count = 5},
                     {name = "Khoma Thread", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WHM Card", count = 50},
+                    {name = "P. WHM Card", count = 15},
                     {name = "Kei's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -222,15 +222,15 @@ return {
         },
         {
             {"Theo. Mitts +1", "Theophany Mitts +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. WHM Card", count = 7},
+                    {name = "P. WHM Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WHM Card", count = 35},
+                    {name = "P. WHM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -240,15 +240,15 @@ return {
         },
         {
             {"Theo. Pant. +1", "Theophany Pantaloons +1", "Th. Pant. +1", "Th. Pantaloons +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. WHM Card", count = 9},
+                    {name = "P. WHM Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WHM Card", count = 45},
+                    {name = "P. WHM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -258,15 +258,15 @@ return {
         },
         {
             {"Theo. Duckbills +1", "Theophany Duckbills +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. WHM Card", count = 6},
+                    {name = "P. WHM Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. WHM Card", count = 30},
+                    {name = "P. WHM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -278,15 +278,15 @@ return {
     RDM = {
         {
             {"Atro. Chapeau +1", "Atrophy Chapeau +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RDM Card", count = 8},
+                    {name = "P. RDM Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RDM Card", count = 40},
+                    {name = "P. RDM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -296,17 +296,17 @@ return {
         },
         {
             {"Atro. Tabard +1", "Atrophy Tabard +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. RDM Card", count = 10},
+                    {name = "P. RDM Card", count = 5},
                     {name = "Cyan Coral", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RDM Card", count = 50},
+                    {name = "P. RDM Card", count = 15},
                     {name = "Kei's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -314,15 +314,15 @@ return {
         },
         {
             {"Atro. Gloves +1", "Atrophy Gloves +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RDM Card", count = 7},
+                    {name = "P. RDM Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RDM Card", count = 35},
+                    {name = "P. RDM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -332,15 +332,15 @@ return {
         },
         {
             {"Atro. Tights +1", "Atrophy Tights +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RDM Card", count = 9},
+                    {name = "P. RDM Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RDM Card", count = 45},
+                    {name = "P. RDM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -350,15 +350,15 @@ return {
         },
         {
             {"Atro. Boots +1", "Atrophy Boots +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RDM Card", count = 6},
+                    {name = "P. RDM Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RDM Card", count = 30},
+                    {name = "P. RDM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -370,15 +370,15 @@ return {
     BLM = {
         {
             {"Spae. Petasos +1", "Spaekona's Petasos +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BLM Card", count = 8},
+                    {name = "P. BLM Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLM Card", count = 40},
+                    {name = "P. BLM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -388,17 +388,17 @@ return {
         },
         {
             {"Spae. Coat +1", "Spaekona's Coat +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. BLM Card", count = 10},
+                    {name = "P. BLM Card", count = 5},
                     {name = "Azure Leaf", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLM Card", count = 50},
+                    {name = "P. BLM Card", count = 15},
                     {name = "Kei's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -406,15 +406,15 @@ return {
         },
         {
             {"Spae. Gloves +1", "Spaekona's Gloves +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BLM Card", count = 7},
+                    {name = "P. BLM Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLM Card", count = 35},
+                    {name = "P. BLM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -424,15 +424,15 @@ return {
         },
         {
             {"Spae. Tonban +1", "Spaekona's Tonban +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BLM Card", count = 9},
+                    {name = "P. BLM Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLM Card", count = 45},
+                    {name = "P. BLM Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -442,15 +442,15 @@ return {
         },
         {
             {"Spae. Sabots +1", "Spaekona's Sabots +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BLM Card", count = 6},
+                    {name = "P. BLM Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLM Card", count = 30},
+                    {name = "P. BLM Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -462,15 +462,15 @@ return {
     THF = {
         {
             {"Pill. Bonnet +1", "Pillager's Bonnet +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. THF Card", count = 8},
+                    {name = "P. THF Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. THF Card", count = 40},
+                    {name = "P. THF Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -480,17 +480,17 @@ return {
         },
         {
             {"Pill. Vest +1", "Pillager's Vest +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. THF Card", count = 10},
+                    {name = "P. THF Card", count = 5},
                     {name = "Cypress Log", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. THF Card", count = 50},
+                    {name = "P. THF Card", count = 15},
                     {name = "Gin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -498,15 +498,15 @@ return {
         },
         {
             {"Pill. Armlets +1", "Pillager's Armlets +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. THF Card", count = 7},
+                    {name = "P. THF Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. THF Card", count = 35},
+                    {name = "P. THF Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -516,15 +516,15 @@ return {
         },
         {
             {"Pill. Culottes +1", "Pillager's Culottes +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. THF Card", count = 9},
+                    {name = "P. THF Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. THF Card", count = 45},
+                    {name = "P. THF Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -534,15 +534,15 @@ return {
         },
         {
             {"Pill. Poulaines +1", "Pillager's Poulaines +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. THF Card", count = 6},
+                    {name = "P. THF Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. THF Card", count = 30},
+                    {name = "P. THF Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -554,15 +554,15 @@ return {
     PLD = {
         {
             {"Rev. Coronet +1", "Reverence Coronet +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. PLD Card", count = 8},
+                    {name = "P. PLD Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PLD Card", count = 40},
+                    {name = "P. PLD Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -572,17 +572,17 @@ return {
         },
         {
             {"Rev. Surcoat +1", "Reverence Surcoat +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. PLD Card", count = 10},
+                    {name = "P. PLD Card", count = 5},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PLD Card", count = 50},
+                    {name = "P. PLD Card", count = 15},
                     {name = "Kin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -590,10 +590,10 @@ return {
         },
         {
             {"Rev. Gauntlets +1", "Reverence Gauntlets +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. PLD Card", count = 7},
+                    {name = "P. PLD Card", count = 3},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
@@ -608,15 +608,15 @@ return {
         },
         {
             {"Rev. Breeches +1", "Reverence Breeches +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. PLD Card", count = 9},
+                    {name = "P. PLD Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PLD Card", count = 45},
+                    {name = "P. PLD Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -626,10 +626,10 @@ return {
         },
         {
             {"Rev. Leggings +1", "Reverence Leggings +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. PLD Card", count = 6},
+                    {name = "P. PLD Card", count = 3},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
@@ -646,15 +646,15 @@ return {
     DRK = {
         {
             {"Igno. Burgeonet +1", "Ignominy Burgeonet +1", "Ig. Burgeonet +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DRK Card", count = 8},
+                    {name = "P. DRK Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRK Card", count = 40},
+                    {name = "P. DRK Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -664,17 +664,17 @@ return {
         },
         {
             {"Igno. Cuirass +1", "Ignominy Cuirass +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. DRK Card", count = 10},
+                    {name = "P. DRK Card", count = 5},
                     {name = "Niobium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRK Card", count = 50},
+                    {name = "P. DRK Card", count = 15},
                     {name = "Kin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -682,15 +682,15 @@ return {
         },
         {
             {"Igno. Gauntlets +1", "Ignominy Gauntlets +1", "Ig. Gauntlets +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DRK Card", count = 7},
+                    {name = "P. DRK Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRK Card", count = 35},
+                    {name = "P. DRK Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -700,15 +700,15 @@ return {
         },
         {
             {"Igno. Flan. +1", "Ignominy Flanchard +1", "Ig. Flanchard +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DRK Card", count = 9},
+                    {name = "P. DRK Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRK Card", count = 45},
+                    {name = "P. DRK Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -718,15 +718,15 @@ return {
         },
         {
             {"Igno. Sollerets +1", "Ignominy Sollerets +1", "Ig. Sollerets +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DRK Card", count = 6},
+                    {name = "P. DRK Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRK Card", count = 30},
+                    {name = "P. DRK Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -738,15 +738,15 @@ return {
     BST = {
         {
             {"Tot. Helm +1", "Totemic Helm +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BST Card", count = 8},
+                    {name = "P. BST Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BST Card", count = 40},
+                    {name = "P. BST Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -756,17 +756,17 @@ return {
         },
         {
             {"Tot. Jackcoat +1", "Totemic Jackcoat +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. BST Card", count = 10},
+                    {name = "P. BST Card", count = 5},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BST Card", count = 50},
+                    {name = "P. BST Card", count = 15},
                     {name = "Fu's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -774,15 +774,15 @@ return {
         },
         {
             {"Tot. Gloves +1", "Totemic Gloves +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BST Card", count = 7},
+                    {name = "P. BST Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BST Card", count = 35},
+                    {name = "P. BST Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -792,15 +792,15 @@ return {
         },
         {
             {"Tot. Trousers +1", "Totemic Trousers +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BST Card", count = 9},
+                    {name = "P. BST Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BST Card", count = 45},
+                    {name = "P. BST Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -810,15 +810,15 @@ return {
         },
         {
             {"Tot. Gaiters +1", "Totemic Gaiters +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BST Card", count = 6},
+                    {name = "P. BST Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BST Card", count = 30},
+                    {name = "P. BST Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -830,15 +830,15 @@ return {
     BRD = {
         {
             {"Brioso Roundlet +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BRD Card", count = 8},
+                    {name = "P. BRD Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BRD Card", count = 40},
+                    {name = "P. BRD Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -848,17 +848,17 @@ return {
         },
         {
             {"Brioso Just. +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. BRD Card", count = 10},
+                    {name = "P. BRD Card", count = 5},
                     {name = "Khoma Thread", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BRD Card", count = 50},
+                    {name = "P. BRD Card", count = 15},
                     {name = "Kyou's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -866,15 +866,15 @@ return {
         },
         {
             {"Brioso Cuffs +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BRD Card", count = 7},
+                    {name = "P. BRD Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BRD Card", count = 35},
+                    {name = "P. BRD Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -884,15 +884,15 @@ return {
         },
         {
             {"Brioso Cann. +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BRD Card", count = 9},
+                    {name = "P. BRD Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BRD Card", count = 45},
+                    {name = "P. BRD Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -902,15 +902,15 @@ return {
         },
         {
             {"Brioso Slippers +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BRD Card", count = 6},
+                    {name = "P. BRD Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BRD Card", count = 30},
+                    {name = "P. BRD Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -922,15 +922,15 @@ return {
     RNG = {
         {
             {"Orion Beret +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RNG Card", count = 8},
+                    {name = "P. RNG Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RNG Card", count = 40},
+                    {name = "P. RNG Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -940,17 +940,17 @@ return {
         },
         {
             {"Orion Jerkin +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. RNG Card", count = 10},
+                    {name = "P. RNG Card", count = 5},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RNG Card", count = 50},
+                    {name = "P. RNG Card", count = 15},
                     {name = "Kyou's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -958,15 +958,15 @@ return {
         },
         {
             {"Orion Bracers +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RNG Card", count = 7},
+                    {name = "P. RNG Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RNG Card", count = 35},
+                    {name = "P. RNG Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -976,15 +976,15 @@ return {
         },
         {
             {"Orion Braccae +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RNG Card", count = 9},
+                    {name = "P. RNG Card", count = 4},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RNG Card", count = 45},
+                    {name = "P. RNG Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -994,15 +994,15 @@ return {
         },
         {
             {"Orion Socks +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RNG Card", count = 6},
+                    {name = "P. RNG Card", count = 3},
                     {name = "S. Faulpie Leather", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RNG Card", count = 30},
+                    {name = "P. RNG Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1014,15 +1014,15 @@ return {
     SAM = {
         {
             {"Waki. Kabuto +1", "Wakido Kabuto +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SAM Card", count = 8},
+                    {name = "P. SAM Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SAM Card", count = 40},
+                    {name = "P. SAM Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1032,17 +1032,17 @@ return {
         },
         {
             {"Waki. Domaru +1", "Wakido Domaru +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. SAM Card", count = 10},
-                    {name = "Nobium Ore", count = 1},
+                    {name = "P. SAM Card", count = 5},
+                    {name = "Niobium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SAM Card", count = 50},
+                    {name = "P. SAM Card", count = 15},
                     {name = "Kin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1050,15 +1050,15 @@ return {
         },
         {
             {"Waki. Kote +1", "Wakido Kote +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SAM Card", count = 7},
+                    {name = "P. SAM Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SAM Card", count = 35},
+                    {name = "P. SAM Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Faulpie Leather ", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1068,15 +1068,15 @@ return {
         },
         {
             {"Waki. Haidate +1", "Wakido Haidate +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SAM Card", count = 9},
+                    {name = "P. SAM Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SAM Card", count = 45},
+                    {name = "P. SAM Card", count = 12},
                     {name = "Kin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1086,15 +1086,15 @@ return {
         },
         {
             {"Waki. Sune-Ate +1", "Wakido Sune-Ate +1", "Wakido Sune. +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SAM Card", count = 6},
+                    {name = "P. SAM Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SAM Card", count = 30},
+                    {name = "P. SAM Card", count = 9},
                     {name = "Kin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1106,15 +1106,15 @@ return {
     NIN = {
         {
             {"Hachi. Hatsu. +1", "Hachiya Hatsuburi +1", "Hachiya Hatsu. +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. NIN Card", count = 8},
+                    {name = "P. NIN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. NIN Card", count = 40},
+                    {name = "P. NIN Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1124,17 +1124,17 @@ return {
         },
         {
             {"Hachi. Chain. +1", "Hachiya Chainmail +1", "Hachiya Chain. +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. NIN Card", count = 10},
-                    {name = "Nobium Ore", count = 1},
+                    {name = "P. NIN Card", count = 5},
+                    {name = "Niobium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. NIN Card", count = 50},
+                    {name = "P. NIN Card", count = 15},
                     {name = "Gin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1142,15 +1142,15 @@ return {
         },
         {
             {"Hachi. Tekko +1", "Hachiya Tekko +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. NIN Card", count = 7},
+                    {name = "P. NIN Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. NIN Card", count = 35},
+                    {name = "P. NIN Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1160,15 +1160,15 @@ return {
         },
         {
             {"Hachi. Hakama +1", "Hachiya Hakama +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. NIN Card", count = 9},
+                    {name = "P. NIN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. NIN Card", count = 45},
+                    {name = "P. NIN Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1178,15 +1178,15 @@ return {
         },
         {
             {"Hachi. Kyahan +1", "Hachiya Kyahan +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. NIN Card", count = 6},
+                    {name = "P. NIN Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. NIN Card", count = 30},
+                    {name = "P. NIN Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1198,15 +1198,15 @@ return {
     DRG = {
         {
             {"Vishap Armet +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DRG Card", count = 8},
+                    {name = "P. DRG Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRG Card", count = 40},
+                    {name = "P. DRG Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1216,17 +1216,17 @@ return {
         },
         {
             {"Vishap Mail +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. DRG Card", count = 10},
+                    {name = "P. DRG Card", count = 5},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRG Card", count = 50},
+                    {name = "P. DRG Card", count = 15},
                     {name = "Fu's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1234,15 +1234,15 @@ return {
         },
         {
             {"Vishap F. G. +1", "Vishap Finger Gauntlets +1", "Vis. Fng. Gaunt. +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DRG Card", count = 7},
+                    {name = "P. DRG Card", count = 3},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRG Card", count = 35},
+                    {name = "P. DRG Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1252,15 +1252,15 @@ return {
         },
         {
             {"Vishap Brais +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DRG Card", count = 9},
+                    {name = "P. DRG Card", count = 4},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRG Card", count = 45},
+                    {name = "P. DRG Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1270,15 +1270,15 @@ return {
         },
         {
             {"Vishap Greaves +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DRG Card", count = 6},
+                    {name = "P. DRG Card", count = 3},
                     {name = "Ruthenium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DRG Card", count = 30},
+                    {name = "P. DRG Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1290,15 +1290,15 @@ return {
     SMN = {
         {
             {"Con. Horn +1", "Convoker's Horn +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SMN Card", count = 8},
+                    {name = "P. SMN Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SMN Card", count = 40},
+                    {name = "P. SMN Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1308,17 +1308,17 @@ return {
         },
         {
             {"Con. Doublet +1", "Convoker's Doublet +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. SMN Card", count = 10},
+                    {name = "P. SMN Card", count = 5},
                     {name = "Cyan Coral", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SMN Card", count = 50},
+                    {name = "P. SMN Card", count = 15},
                     {name = "Fu's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1326,15 +1326,15 @@ return {
         },
         {
             {"Con. Bracers +1", "Convoker's Bracers +1", "Convo. Bracers +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SMN Card", count = 7},
+                    {name = "P. SMN Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SMN Card", count = 35},
+                    {name = "P. SMN Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1344,15 +1344,15 @@ return {
         },
         {
             {"Con. Spats +1", "Convoker's Spats +1", "Convo. Spats +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SMN Card", count = 9},
+                    {name = "P. SMN Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SMN Card", count = 45},
+                    {name = "P. SMN Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1362,15 +1362,15 @@ return {
         },
         {
             {"Con. Pigaches +1", "Convoker's Pigaches +1", "Convo. Pigaches +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SMN Card", count = 6},
+                    {name = "P. SMN Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SMN Card", count = 30},
+                    {name = "P. SMN Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1382,15 +1382,15 @@ return {
     BLU = {
         {
             {"Assim. Keffiyeh +1", "Assimilator's Keffiyeh +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BLU Card", count = 8},
+                    {name = "P. BLU Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLU Card", count = 40},
+                    {name = "P. BLU Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1400,17 +1400,17 @@ return {
         },
         {
             {"Assim. Jubbah +1", "Assimilator's Jubbah +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. BLU Card", count = 10},
+                    {name = "P. BLU Card", count = 5},
                     {name = "Khoma Thread", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLU Card", count = 50},
+                    {name = "P. BLU Card", count = 15},
                     {name = "Kei's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1418,15 +1418,15 @@ return {
         },
         {
             {"Assim. Bazu. +1", "Assimilator's Bazubands +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BLU Card", count = 7},
+                    {name = "P. BLU Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLU Card", count = 35},
+                    {name = "P. BLU Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1436,15 +1436,15 @@ return {
         },
         {
             {"Assim. Shalwar +1", "Assimilator's Shalwar +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. BLU Card", count = 9},
+                    {name = "P. BLU Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLU Card", count = 45},
+                    {name = "P. BLU Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1454,15 +1454,15 @@ return {
         },
         {
             {"Assim. Charuqs +1", "Assimilator's Charuqs +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. BLU Card", count = 6},
+                    {name = "P. BLU Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. BLU Card", count = 30},
+                    {name = "P. BLU Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1474,15 +1474,15 @@ return {
     COR = {
         {
             {"Laksa. Tricorne +1", "Laksamana's Tricorne +1", "Lak. Tricorne +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. COR Card", count = 8},
+                    {name = "P. COR Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. COR Card", count = 40},
+                    {name = "P. COR Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1492,17 +1492,17 @@ return {
         },
         {
             {"Laksa. Frac +1", "Laksamana's Frac +1", "Lak. Frac +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. COR Card", count = 10},
+                    {name = "P. COR Card", count = 5},
                     {name = "Azure Leaf", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. COR Card", count = 50},
+                    {name = "P. COR Card", count = 15},
                     {name = "Kyou's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1510,15 +1510,15 @@ return {
         },
         {
             {"Laksa. Gants +1", "Laksamana's Gants +1", "Lak. Gants +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. COR Card", count = 7},
+                    {name = "P. COR Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. COR Card", count = 35},
+                    {name = "P. COR Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1528,15 +1528,15 @@ return {
         },
         {
             {"Laksa. Trews +1", "Laksamana's Trews +1", "Lak. Trews +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. COR Card", count = 9},
+                    {name = "P. COR Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. COR Card", count = 45},
+                    {name = "P. COR Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1546,15 +1546,15 @@ return {
         },
         {
             {"Laksa. Boots +1", "Laksamana's Boots +1", "Lak. Boots +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. COR Card", count = 6},
+                    {name = "P. COR Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. COR Card", count = 30},
+                    {name = "P. COR Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1566,15 +1566,15 @@ return {
     PUP = {
         {
             {"Foire Taj +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. PUP Card", count = 8},
+                    {name = "P. PUP Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PUP Card", count = 40},
+                    {name = "P. PUP Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1584,17 +1584,17 @@ return {
         },
         {
             {"Foire Tobe +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. PUP Card", count = 10},
+                    {name = "P. PUP Card", count = 5},
                     {name = "Azure Leaf", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PUP Card", count = 50},
+                    {name = "P. PUP Card", count = 15},
                     {name = "Fu's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1602,15 +1602,15 @@ return {
         },
         {
             {"Foire Dastanas +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. PUP Card", count = 7},
+                    {name = "P. PUP Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PUP Card", count = 35},
+                    {name = "P. PUP Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1620,15 +1620,15 @@ return {
         },
         {
             {"Foire Churidars +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. PUP Card", count = 9},
+                    {name = "P. PUP Card", count = 4},
                     {name = "Azure Leaf", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PUP Card", count = 45},
+                    {name = "P. PUP Card", count = 12},
                     {name = "Fu's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1638,15 +1638,15 @@ return {
         },
         {
             {"Foire Babouches +1", "Foire Bab. +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. PUP Card", count = 6},
+                    {name = "P. PUP Card", count = 3},
                     {name = "Azure Leaf", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. PUP Card", count = 30},
+                    {name = "P. PUP Card", count = 9},
                     {name = "Fu's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1658,15 +1658,15 @@ return {
     DNC = {
         {
             {"Maxixi Tiara +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DNC Card", count = 8},
+                    {name = "P. DNC Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DNC Card", count = 40},
+                    {name = "P. DNC Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1676,17 +1676,17 @@ return {
         },
         {
             {"Maxixi Casaque +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. DNC Card", count = 10},
+                    {name = "P. DNC Card", count = 5},
                     {name = "Cypress Log", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DNC Card", count = 50},
+                    {name = "P. DNC Card", count = 15},
                     {name = "Gin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1694,15 +1694,15 @@ return {
         },
         {
             {"Maxixi Bangles +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DNC Card", count = 7},
+                    {name = "P. DNC Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DNC Card", count = 35},
+                    {name = "P. DNC Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1712,15 +1712,15 @@ return {
         },
         {
             {"Maxixi Tights +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. DNC Card", count = 9},
+                    {name = "P. DNC Card", count = 4},
                     {name = "Cypress Log", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DNC Card", count = 45},
+                    {name = "P. DNC Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1730,15 +1730,15 @@ return {
         },
         {
             {"Maxixi Toe Shoes +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. DNC Card", count = 6},
+                    {name = "P. DNC Card", count = 3},
                     {name = "Cypress Log", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. DNC Card", count = 30},
+                    {name = "P. DNC Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1750,15 +1750,15 @@ return {
     SCH = {
         {
             {"Acad. Mortar. +1", "Academic's Mortarboard +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SCH Card", count = 8},
+                    {name = "P. SCH Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SCH Card", count = 40},
+                    {name = "P. SCH Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1768,17 +1768,17 @@ return {
         },
         {
             {"Acad. Gown +1", "Academic's Gown +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. SCH Card", count = 10},
+                    {name = "P. SCH Card", count = 5},
                     {name = "Cyan Coral", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SCH Card", count = 50},
+                    {name = "P. SCH Card", count = 15},
                     {name = "Kei's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1786,15 +1786,15 @@ return {
         },
         {
             {"Acad. Bracers +1", "Academic's Bracers +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SCH Card", count = 7},
+                    {name = "P. SCH Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SCH Card", count = 35},
+                    {name = "P. SCH Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1804,15 +1804,15 @@ return {
         },
         {
             {"Acad. Pants +1", "Academic's Pants +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. SCH Card", count = 9},
+                    {name = "P. SCH Card", count = 4},
                     {name = "Cyan Coral", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SCH Card", count = 45},
+                    {name = "P. SCH Card", count = 12},
                     {name = "Kei's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1822,15 +1822,15 @@ return {
         },
         {
             {"Acad. Loafers +1", "Academic's Loafers +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. SCH Card", count = 6},
+                    {name = "P. SCH Card", count = 3},
                     {name = "Cyan Coral", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. SCH Card", count = 30},
+                    {name = "P. SCH Card", count = 9},
                     {name = "Kei's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1842,15 +1842,15 @@ return {
     GEO = {
         {
             {"Geo. Galero +1", "Geomancy Galero +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. GEO Card", count = 8},
+                    {name = "P. GEO Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. GEO Card", count = 40},
+                    {name = "P. GEO Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1860,17 +1860,17 @@ return {
         },
         {
             {"Geo. Tunic +1", "Geomancy Tunic +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. GEO Card", count = 10},
+                    {name = "P. GEO Card", count = 5},
                     {name = "Khoma Thread", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. GEO Card", count = 50},
+                    {name = "P. GEO Card", count = 15},
                     {name = "Kyou's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1878,15 +1878,15 @@ return {
         },
         {
             {"Geo. Mitaines +1", "Geomancy Mitaines +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. GEO Card", count = 7},
+                    {name = "P. GEO Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. GEO Card", count = 35},
+                    {name = "P. GEO Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1896,15 +1896,15 @@ return {
         },
         {
             {"Geo. Pants +1", "Geomancy Pants +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. GEO Card", count = 9},
+                    {name = "P. GEO Card", count = 4},
                     {name = "Khoma Thread", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. GEO Card", count = 45},
+                    {name = "P. GEO Card", count = 12},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -1914,15 +1914,15 @@ return {
         },
         {
             {"Geo. Sandals +1", "Geomancy Sandals +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. GEO Card", count = 6},
+                    {name = "P. GEO Card", count = 3},
                     {name = "Khoma Thread", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. GEO Card", count = 30},
+                    {name = "P. GEO Card", count = 9},
                     {name = "Kyou's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
@@ -1934,15 +1934,15 @@ return {
     RUN = {
         {
             {"Rune. Bandeau +1", "Runeist's Bandeau +1"}, 
-            48,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RUN Card", count = 8},
+                    {name = "P. RUN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Emperor Arthro's Shell", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RUN Card", count = 40},
+                    {name = "P. RUN Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Khoma Cloth", count = 1},
                     {name = "S. Faulpie Leather", count = 1},
@@ -1952,17 +1952,17 @@ return {
         },
         {
             {"Rune. Coat +1", "Runeist's Coat +1"}, 
-            60,
+            20,
             {
                 ["+2"] = {
-                    {name = "P. RUN Card", count = 10},
+                    {name = "P. RUN Card", count = 5},
                     {name = "Niobium Ore", count = 1},
                     {name = "Joyous's Moss", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RUN Card", count = 50},
+                    {name = "P. RUN Card", count = 15},
                     {name = "Gin's Scale", count = 1},
-                    {name = "Nobium Ingot", count = 1},
+                    {name = "Niobium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
                     {name = "Cyan Orb", count = 3}
                 }
@@ -1970,15 +1970,15 @@ return {
         },
         {
             {"Rune. Mitons +1", "Runeist's Mitons +1"}, 
-            42,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RUN Card", count = 7},
+                    {name = "P. RUN Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Imperator's Wing", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RUN Card", count = 35},
+                    {name = "P. RUN Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Faulpie Leather", count = 3},
                     {name = "Cypress Log", count = 1},
@@ -1988,15 +1988,15 @@ return {
         },
         {
             {"Rune. Trousers +1", "Runeist's Trousers +1"}, 
-            54,
+            16,
             {
                 ["+2"] = {
-                    {name = "P. RUN Card", count = 9},
+                    {name = "P. RUN Card", count = 4},
                     {name = "Niobium Ore", count = 1},
                     {name = "Warblade Beak's Hide", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RUN Card", count = 45},
+                    {name = "P. RUN Card", count = 12},
                     {name = "Gin's Scale", count = 1},
                     {name = "Ruthenium Ingot", count = 1},
                     {name = "Cypress Lumber", count = 1},
@@ -2006,15 +2006,15 @@ return {
         },
         {
             {"Rune. Boots +1", "Runeist's Boots +1"}, 
-            36,
+            12,
             {
                 ["+2"] = {
-                    {name = "P. RUN Card", count = 6},
+                    {name = "P. RUN Card", count = 3},
                     {name = "Niobium Ore", count = 1},
                     {name = "Abyssdiver's Feather", count = 1}
                 },
                 ["+3"] = {
-                    {name = "P. RUN Card", count = 30},
+                    {name = "P. RUN Card", count = 9},
                     {name = "Gin's Scale", count = 1},
                     {name = "Azure Cermet", count = 3},
                     {name = "Khoma Thread", count = 1},
