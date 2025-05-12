@@ -847,7 +847,7 @@ return {
             }
         },
         {
-            {"Brioso Just. +1"}, 
+            {"Brioso Just. +1", "Brioso Justau. +1"}, 
             20,
             {
                 ["+2"] = {
@@ -883,7 +883,7 @@ return {
             }
         },
         {
-            {"Brioso Cann. +1"}, 
+            {"Brioso Cann. +1", "Brioso Cannions +1"}, 
             16,
             {
                 ["+2"] = {
@@ -1951,7 +1951,7 @@ return {
             }
         },
         {
-            {"Rune. Coat +1", "Runeist's Coat +1"}, 
+            {"Rune. Coat +1", "Runeist's Coat +1", "Runist Coat +1"}, 
             20,
             {
                 ["+2"] = {
@@ -1969,7 +1969,7 @@ return {
             }
         },
         {
-            {"Rune. Mitons +1", "Runeist's Mitons +1"}, 
+            {"Rune. Mitons +1", "Runeist's Mitons +1", "Runist Mitons +1"}, 
             12,
             {
                 ["+2"] = {
@@ -1987,7 +1987,7 @@ return {
             }
         },
         {
-            {"Rune. Trousers +1", "Runeist's Trousers +1"}, 
+            {"Rune. Trousers +1", "Runeist's Trousers +1", "Runist Bottes +1"}, 
             16,
             {
                 ["+2"] = {
