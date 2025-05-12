@@ -22,9 +22,11 @@ The //cardsmats command will show you all materials needed to upgrade your gear 
 //cardsmats RNG
 ```
 
-![//cards GEO](https://i.imgur.com/SzHFGp0.jpeg)
+![//cards WHM](https://i.imgur.com/HGWFfW6.jpeg)
 
-![//cardsmats PUP](https://i.imgur.com/1xIYG6Y.jpg)
+
+### v1.20
+* Updated amout of cards needed for each augments based on the May 12th 2025 update: https://forum.square-enix.com/ffxi/threads/62737
 
 ### v1.10
 * Added //cardsmats commands
