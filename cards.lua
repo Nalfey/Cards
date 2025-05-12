@@ -1,23 +1,23 @@
 --[[
-Copyright © 2013-2015, Giuliano Riccio
+Copyright © 2025, Nalfey of Asura
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
-* Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-* Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-* Neither the name of Cards nor the
-names of its contributors may be used to endorse or promote products
-derived from this software without specific prior written permission.
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of Cards nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL Giuliano Riccio BE LIABLE FOR ANY
+DISCLAIMED. IN NO EVENT SHALL Nalfey BE LIABLE FOR ANY
 DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
 LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name    = 'Cards'
 _addon.author  = 'Nalfey'
-_addon.version = '1.10'
+_addon.version = '1.20'
 _addon.commands = {'cards'}
 
 require('chat')
@@ -594,11 +594,11 @@ function find_cards(job)
         if not found_plus3 then
             if found_plus2 then
                 local plus2_cards
-                if index == 1 then plus2_cards = 40
-                elseif index == 2 then plus2_cards = 50
-                elseif index == 3 then plus2_cards = 35
-                elseif index == 4 then plus2_cards = 45
-                elseif index == 5 then plus2_cards = 30 end
+                if index == 1 then plus2_cards = 12
+                elseif index == 2 then plus2_cards = 15
+                elseif index == 3 then plus2_cards = 9
+                elseif index == 4 then plus2_cards = 12
+                elseif index == 5 then plus2_cards = 9 end
                 total_cards = total_cards + plus2_cards
                 log(base_name:color(255) .. ': Needs ' .. tostring(plus2_cards):color(158) .. ' cards ' .. '(currently +2)':color(158))
             elseif found_plus1 then
@@ -707,11 +707,11 @@ function find_cards_all(job)
         if not found_plus3 then
             if found_plus2 then
                 local plus2_cards
-                if index == 1 then plus2_cards = 40
-                elseif index == 2 then plus2_cards = 50
-                elseif index == 3 then plus2_cards = 35
-                elseif index == 4 then plus2_cards = 45
-                elseif index == 5 then plus2_cards = 30 end
+                if index == 1 then plus2_cards = 12
+                elseif index == 2 then plus2_cards = 15
+                elseif index == 3 then plus2_cards = 9
+                elseif index == 4 then plus2_cards = 12
+                elseif index == 5 then plus2_cards = 9 end
                 total_cards = total_cards + plus2_cards
                 log(base_name:color(255) .. ': Needs ' .. tostring(plus2_cards):color(158) .. ' cards ' .. '(currently +2)':color(158))
             elseif found_plus1 then
