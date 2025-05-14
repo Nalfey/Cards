@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name    = 'Cards'
 _addon.author  = 'Nalfey'
-_addon.version = '1.20'
+_addon.version = '1.21'
 _addon.commands = {'cards'}
 
 require('chat')
@@ -358,7 +358,11 @@ end)
 handle_command = function(...)
     local params = L{...}
     if not params[1] then
-        log('Usage: //cards JOB')
+        log('Usage:')
+        log('  //cards JOB - Check cards you have and needed for a specific job')
+        log('  //cardsall JOB - Check cards you have stored across all characters')
+        log('  //cardsmats JOB - Check upgrade materials for a job')
+        log('  //cardshelp - Display this help message')
         return
     end
     local job = params[1]:upper()
@@ -366,8 +370,15 @@ handle_command = function(...)
 end
 
 windower.register_event('unhandled command', function(command, ...)
-    if command:lower() == 'cards' then
-        local args = T{...}
+    local args = T{...}
+    if command:lower() == 'cardshelp' then
+        log('Cards Addon Commands:')
+        log('  //cards JOB - Check cards you have and needed for a specific job')
+        log('  //cardsall JOB - Check cards you have stored across all characters')
+        log('  //cardsmats JOB - Check upgrade materials for a job')
+        log('  //cardshelp - Display this help message')
+        return
+    elseif command:lower() == 'cards' then
         if not args[1] then
             log('Usage: //cards JOB')
             return
@@ -375,7 +386,6 @@ windower.register_event('unhandled command', function(command, ...)
         local job = args[1]:upper()
         find_cards(job)
     elseif command:lower() == 'cardsall' then
-        local args = T{...}
         if not args[1] then
             log('Usage: //cardsall JOB')
             return
@@ -383,7 +393,6 @@ windower.register_event('unhandled command', function(command, ...)
         local job = args[1]:upper()
         find_cards_all(job)
     elseif command:lower() == 'cardsmats' then
-        local args = T{...}
         if not args[1] then
             log('Usage: //cardsmats JOB')
             return
