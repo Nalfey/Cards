@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name    = 'Cards'
 _addon.author  = 'Nalfey'
-_addon.version = '1.21'
+_addon.version = '1.22'
 _addon.commands = {'cards'}
 
 require('chat')
