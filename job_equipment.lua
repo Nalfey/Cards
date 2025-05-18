@@ -1545,7 +1545,7 @@ return {
             }
         },
         {
-            {"Laksa. Boots +1", "Laksamana's Boots +1", "Lak. Boots +1"}, 
+            {"Laksa. Bottes +1", "Laksamana's Bottes +1", "Lak. Bottes +1"}, 
             12,
             {
                 ["+2"] = {
